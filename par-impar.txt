@@ -1,0 +1,22 @@
+ESCRIBIR UN PROGRAMA EN PSEUDOCODIGO, DIAGRAMA DE FLUJO Y EN
+JAVASCRIPT QUE, DADO UN NUMERO, ME DIGA SI ES PAR O IMPAR
+
+HERRAMIENTAS PARA REALIZARLO.
+
+PSEUDOCODIGO:
+- documento de word
+- google docs 
+- archivo .txt en vsCode.
+
+(DDF/DIAGRAMA DE FLUJO): 
+- miro
+- lucidchart
+- draw.io
+- pseint
+
+JAVASCRIPT:
+un archivo .js enlazado a un .html o dentro de una etiqueta <script>
+  //code...
+</script>
+
+EL NUMERO TIENE QUE SER ENTERO(SIN PUNTOS DECIMALES).
