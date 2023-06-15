@@ -8,7 +8,7 @@ class Student {
     this._secretNumber = secretNumber;
   };
 
-  // GETTERS, SE USAN PARA OBTENER UNA PROPIEDAD PRIVADA Y APLICAR LOGICA EN ELLA,
+  // GETTERS, SE USAN PARA DAD PRIVADOBTENER UNA PROPIEA Y APLICAR LOGICA EN ELLA,
   // DE MODO QUE NO ACCEDAMOS NUNCA A ELLA DE FORMA DIRECTA
   get getAddress() {
     return this._address;
